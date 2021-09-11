@@ -4,11 +4,12 @@
 </div>
 
 #### About me  
-I am a 📲Digital marketer by passion and a 👨🏻‍💻Web-Developer by interest. Although I’m pursuing my 👨🏻‍🎓Graduation in marketing, but a significant amount of my knowledge comes directly from different online courses and internships. I prefer doing multitasking roles where I can learn multiple things. I also have interest in learning about 📿Sprituality and 🧘🏻‍♂️Meditation. Currently I am learning SQL and MongoDB.
+I am a 📲Digital marketer by passion and a 👨🏻‍💻Web-Developer by interest. Although I’m pursuing my 👨🏻‍🎓Graduation in marketing, but a significant amount of my knowledge comes directly from different online courses and internships. I prefer doing multitasking roles where I can learn multiple things. I also have interest in learning about 📿Sprituality and 🧘🏻‍♂️Meditation.
 
 
-- 🎐 Hobbies : Weight-Lifting🏋🏻‍♂️, Chess♟and Content/Poetry-Writing✍🏻.
-- 🌎I love exploring new things. So feel free to reach out to me in case of any query: tusharshrivastav@gmail.com
+-   💻Currently I am learning SQL and MongoDB
+-   🎐 Hobbies : Weight-Lifting🏋🏻‍♂️, Chess♟and Content/Poetry-Writing✍🏻.
+- 🌎I love exploring new things. So feel free to reach out to me in case of any query or suggestion: tusharshrivastav@gmail.com
 - 📝 [Resume](https://drive.google.com/file/d/1VNp-I2Sl2pPzuW6YbHapwEz3KoQM8jO3/view?usp=sharing)
 
 
@@ -22,7 +23,10 @@ I am a 📲Digital marketer by passion and a 👨🏻‍💻Web-Developer by int
 
 <br /> 
 
-<img align="right" alt="GIF" width="40%" src="https://media.giphy.com/media/Yl5VGKskuiKrv6R2pN/giphy.gif" /> 
+<img align="right" alt="GIF" width="20%" src="https://media.giphy.com/media/uuFsFpfeLuRpjGkWVW/giphy.gif" /> 
+<br />
+
+<img align="right" alt="GIF" width="25%" src="https://media.giphy.com/media/lBiqo1cbEME898RlWy/giphy.gif" /> 
 
 
 ## 🛠️ Languages & Tools
@@ -48,8 +52,10 @@ I am a 📲Digital marketer by passion and a 👨🏻‍💻Web-Developer by int
 
  📍From [Tushar Shrivastav](https://github.com/Tushu17)
 
-[linkedin]: linkedin.com/in/tushar-shrivastav17
+[linkedin]: https://linkedin.com/in/tushar-shrivastav17
 [instagram]: https://instagram.com/its_tush17
 [telegram]: https://t.me/Tushu17
 [email]: mailto:Tusharshrivastav1711@gmail.com
+
+
 
