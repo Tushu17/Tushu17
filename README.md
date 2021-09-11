@@ -4,7 +4,7 @@
 </div>
 
 #### About me  
-I am a 📲Digital marketer by passion and a 👨🏻‍💻Web-Developer by interest. Although I’m pursuing my 👨🏻‍🎓Graduation in marketing, but a significant amount of my knowledge comes directly from different online courses and internships. I prefer doing multitasking roles where I can learn multiple things. I also have interest in learning about 📿Sprituality and 🧘🏻‍♂️Meditation.
+I am a 📲Digital marketer by passion and a 👨🏻‍💻Web-Developer by interest. Although I’m pursuing my 👨🏻‍🎓Graduation in marketing, but a significant amount of my knowledge comes directly from different online courses and internships. I prefer doing multitasking roles where I can learn multiple things. I also have interest in learning about 📿Spirituality and 🧘🏻‍♂️Meditation.
 
 
 -   💻Currently I am learning SQL and MongoDB
