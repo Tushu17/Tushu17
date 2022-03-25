@@ -17,7 +17,7 @@ I am a 📲Digital marketer by passion and a 👨🏻‍💻Web-Developer by int
 <img align="right" alt="GIF" width="20%" src="https://media.giphy.com/media/uuFsFpfeLuRpjGkWVW/giphy.gif" /> 
 <br />
 
-<img align="right" alt="GIF" width="25%" src="https://media.giphy.com/media/lBiqo1cbEME898RlWy/giphy.gif" /> 
+<img align="right" alt="GIF" width="20%" src="https://media.giphy.com/media/lBiqo1cbEME898RlWy/giphy.gif" /> 
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
