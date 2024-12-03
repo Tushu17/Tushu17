@@ -11,7 +11,7 @@ I am a 📲Digital marketer by passion and a 👨🏻‍💻Web-Developer by int
 - 🎐 Hobbies : Weight-Lifting🏋🏻‍♂️, Chess♟and Content/Poetry-Writing✍🏻.
 - 🤔 Exploring new technologies and developing software solutions and quick hacks.
 - ☕Fun fact : When most developer loves coffee:sweat_smile:,but I prefer tea :heart: 
-- 📝 [Resume](https://drive.google.com/file/d/1VNp-I2Sl2pPzuW6YbHapwEz3KoQM8jO3/view?usp=sharing)
+- 📝 [Resume]([https://drive.google.com/ile/d/1VNp-I2Sl2pPzuW6YbHapwEz3KoQM8jO3/view?usp=sharing](https://drive.google.com/file/d/1hJP2DcEKbqIqaq-FBVuhemmf5QiS_eZD/view?usp=sharing))
 <br /> 
 
 <img align="right" alt="GIF" width="20%" src="https://media.giphy.com/media/uuFsFpfeLuRpjGkWVW/giphy.gif" /> 
